@@ -1,0 +1,24 @@
+{
+    "applications": {
+        "pysensetest": {
+            "devices": {
+                "lopy1": {
+                    "mqtt_topic": "lora/lopy1"
+                }
+            },
+            "tokens": [
+                "betapasswordbeia"
+            ]
+        },
+        "pytracktest": {
+            "devices": {
+                "pytrack1": {
+                    "mqtt_topic": "lora/pytrack1"
+                }
+            },
+            "tokens": [
+                "betapasswordbeia"
+            ]
+        }
+    }
+}
